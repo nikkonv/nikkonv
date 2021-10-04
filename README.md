@@ -1,6 +1,6 @@
 ### Hi, I'm Nicolas 👋
 
-## For the moment I'm a student of Computer Science Engineering
+## I'm a Computer Science Engineer
 
 - I’m currently working on React Projects!
 - I’m motivated to learn everything
