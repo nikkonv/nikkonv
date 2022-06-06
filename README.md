@@ -38,11 +38,12 @@
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkonv&show_icons=true)
+<a>![GitHub stats](https://github-readme-stats-six-mu-59.vercel.app/api?username=nikkonv&show_icons=true) 
+</a>
+<a>![Top Langs](https://github-readme-stats-six-mu-59.vercel.app/api/top-langs/?username=nikkonv&layout=compact)
+</a>
 
 <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkonv&layout=compact)
 
 
 [fb]: https://www.facebook.com/nikolas.navarrete.5
