@@ -33,8 +33,17 @@
 <img align="left" title="Python" alt="Python" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" title="TensorFlow" alt="TensorFlow" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" />
 
+<br />
+<br />
+
+### Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkonv&show_icons=true)
 
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkonv&layout=compact)
+
 
 [fb]: https://www.facebook.com/nikolas.navarrete.5
 [linkedin]: https://www.linkedin.com/in/nicolas-navarrete-maldonado-5aa0021a6/
