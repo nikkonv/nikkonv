@@ -4,7 +4,7 @@
 
 - I’m currently working on React Projects!
 - I’m motivated to learn everything
-- I'm addicted to Netflix
+- I'm addicted to TV Shows and Movies!
 
 ### Connect with me:
 
