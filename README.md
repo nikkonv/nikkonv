@@ -83,14 +83,6 @@
 <br />
 <br />
 <br />
-  
-### Stats:
-
-<a>![GitHub stats](https://github-readme-stats-six-mu-59.vercel.app/api?username=nikkonv&show_icons=true) 
-</a>
-<a>![Top Langs](https://github-readme-stats-six-mu-59.vercel.app/api/top-langs/?username=nikkonv&layout=compact)
-</a>
-
 <br />
 
 [linkedin]: https://www.linkedin.com/in/nicolas-navarrete-maldonado-5aa0021a6/
